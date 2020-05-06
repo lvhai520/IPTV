@@ -1,0 +1,18 @@
+ELW体育,http://58.99.33.1:1935/liveedge2/QchWpceS_999_75_1/playlist.m3u8?checkCode=37050688asdfsdfsadf
+智林体育,http://58.99.33.1:1935/liveedge2/QchWpceS_999_122_1/playlist.m3u8?checkCode=37050688asdfsdfsadf
+民視HD,http://58.99.33.2:1935/liveedge2/QchWpceS_5_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+CNN國際新聞,http://58.99.33.2:1935/liveedge2/QchWpceS_6_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+台視HD,http://58.99.33.2:1935/liveedge2/QchWpceS_7_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+人間衛視,http://58.99.33.2:1935/liveedge2/QchWpceS_8_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+中視HD,http://58.99.33.2:1935/liveedge2/QchWpceS_9_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+大愛電視HD,http://58.99.33.2:1935/liveedge2/QchWpceS_10_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+華視HD,http://58.99.33.2:1935/liveedge2/QchWpceS_11_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+動物星球,http://58.99.33.2:1935/liveedge2/QchWpceS_12_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+公視HD,http://58.99.33.2:1935/liveedge2/QchWpceS_13_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+好消息,http://58.99.33.2:1935/liveedge2/QchWpceS_15_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+原住民電視台,http://58.99.33.2:1935/liveedge2/QchWpceS_16_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+客家電視台,http://58.99.33.2:1935/liveedge2/QchWpceS_17_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+國家地理頻道,http://58.99.33.2:1935/liveedge2/QchWpceS_18_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+探索頻道,http://58.99.33.2:1935/liveedge2/QchWpceS_19_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+中台灣生活網,http://58.99.33.2:1935/liveedge2/QchWpceS_20_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+TLC 旅遊生活,http://58.99.33.2:1935/liveedge2/QchWpceS_21_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
